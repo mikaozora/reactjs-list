@@ -21,6 +21,9 @@ function App() {
             <li className="nav-item">
               <a className="nav-link" ><Link to="/latihan">Latihan</Link></a>
             </li>
+            <li className="nav-item">
+              <a className="nav-link" ><Link to="/cart">Cart</Link></a>
+            </li>
           </ul>
         </div>
       </nav>
